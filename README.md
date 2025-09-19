@@ -42,14 +42,15 @@ The block undergoes validation and is appended to the blockchain ledger.
 **Transparency:** Every participant can verify balances and transaction history against the chain.
 
 ---
+**Future Enhancements :**
 
-Deploy full stack on cloud (Heroku, Vercel, AWS, or Netlify + Render)
+-Deploy full stack on cloud (Heroku, Vercel, AWS, or Netlify + Render)
 
-Enhance frontend with UI frameworks (Material-UI, Tailwind CSS, or Bootstrap)
+-Enhance frontend with UI frameworks (Material-UI, Tailwind CSS, or Bootstrap)
 
-Add wallet functionality with unique public/private keys per user
+-Add wallet functionality with unique public/private keys per user
 
-Introduce token rewards for validators or miners
+-sIntroduce token rewards for validators or miners
 
 ---
 

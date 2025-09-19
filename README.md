@@ -53,6 +53,3 @@ Introduce token rewards for validators or miners
 
 ---
 
-
-
-## 📂 Project Structure  

@@ -54,3 +54,25 @@ The block undergoes validation and is appended to the blockchain ledger.
 
 ---
 
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/9c686390-fb03-4613-9705-5de01ad1ce7c" />
+
+---
+
+<img width="740" height="475" alt="image" src="https://github.com/user-attachments/assets/a6e9eab9-dbdd-47a8-b755-f15e1aace2f8" />
+
+---
+
+<img width="908" height="473" alt="image" src="https://github.com/user-attachments/assets/49249449-a1f9-43c9-bcf5-0c0594f10e84" />
+
+---
+
+<img width="783" height="440" alt="image" src="https://github.com/user-attachments/assets/bf21bc18-2556-4406-9732-6eb0eddfd641" />
+
+---
+
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/4b2029b7-3a8a-431b-aafd-ae70c6a65f62" />
+
+---
+
+
+
